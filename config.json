@@ -1,0 +1,21 @@
+{
+  "exploreRadius": 25,
+  "blockType": "dirt",
+  "canDig": false,
+  "buildingEnabled": true,
+  "autoSleep": true,
+  "requiredInventory": {
+    "bed": 1,
+    "dirt": 64
+  },
+  "chestInteraction": {
+    "enabled": true,
+    "depositItems": {
+      "cobblestone": 16,
+      "stone": 16
+    },
+    "withdrawItems": {
+      "dirt": 8
+    }
+  }
+}
